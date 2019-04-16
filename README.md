@@ -1,3 +1,2 @@
 # Basketball-Score-App
-Android application
-![alt text](pic.jpg)
+<img src="pic.jpg" alt="drawing" width="300"/>
